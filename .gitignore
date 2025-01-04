@@ -2,3 +2,5 @@
 *.png
 *.pth
 *.ckpt
+__pycache__/
+dataset/
