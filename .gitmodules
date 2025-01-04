@@ -1,0 +1,3 @@
+[submodule "lab6/source_code/ddpm-pytorch"]
+    path = lab6/source_code/ddpm-pytorch
+    url = <https://github.com/bubbliiiing/ddpm-pytorch>
