@@ -1,0 +1,1 @@
+python Trainer.py --DR ../LAB4_Dataset/LAB4_Dataset/ --ckpt_path ../lab4_checkpoint/without_kl_annealing.ckpt --save_root ../plots --test

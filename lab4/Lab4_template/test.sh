@@ -1,0 +1,2 @@
+# python Tester.py --DR ../LAB4_Dataset/LAB4_Dataset/ --save_root ../result/ --ckpt_path ../lab4_checkpoint/without_kl_annealing.ckpt
+python Tester.py --DR ../LAB4_Dataset/LAB4_Dataset/ --save_root ./demo --ckpt_path ../lab4_checkpoint/without_kl_annealing.ckpt
